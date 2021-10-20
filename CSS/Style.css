@@ -1,0 +1,30 @@
+p {
+    font-family: cursive;
+}
+h3 {
+    color: red;
+}
+.text-center {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.Style {
+    background-image: linear-gradient(to right,yellow,rgb(253, 197, 92));
+    border: 10px solid white;
+}
+.bg-red {
+    background-image: linear-gradient(to right,yellow,orange);
+    
+}
+.navbar-brand {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div .text-center {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.nav-item {
+    text-align: center;
+    font-family: cursive;
+}
